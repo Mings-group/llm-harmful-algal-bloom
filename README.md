@@ -246,22 +246,3 @@ These materials are included to support transparency and reproducibility of the 
 
 ---
 
-## Citation
-
-If you use this repository, please cite:
-
-[Insert manuscript citation]
-
----
-
-## Software Archive
-
-A permanent archived version of this repository is available through Zenodo:
-
-DOI: [Insert Zenodo DOI after release]
-
----
-
-## License
-
-[Insert chosen software license]

@@ -14,7 +14,10 @@ The repository also contains archived conversations used during model developmen
 
 ## Repository Structure
 
+The following shows the contents of subdirectories:
+
 ```text
+
 llm-harmful-algal-bloom/
 
 ├── preprocessing_scripts/ # Data preparation and feature engineering
@@ -79,6 +82,10 @@ The datasets used in this study were obtained from the following sources:
 
 The following datasets were provided by IPMA:
 
+ toxin Data was orginally obtained from https://www.ipma.pt/en/bivalves/biotox/
+ 
+ Phytoplankton Data was originally obtained from https://www.ipma.pt/en/bivalves/fito/
+
 - Diarrhetic Shellfish Poisoning (DSP) toxin measurements
 - Phytoplankton observations
 - Meteorological observations
@@ -88,6 +95,10 @@ These data were collected as part of routine environmental and shellfish monitor
 ### Copernicus Marine Service
 
 The following remotely sensed and modeled oceanographic variables were obtained from the Copernicus Marine Service:
+
+Sea Surface Temperature data was originally obtained from https://data.marine.copernicus.eu/product/SST_GLO_SST_L4_REP_OBSERVATIONS_010_024/description
+
+Chlorophyll-a Data was originally obtained from https://data.marine.copernicus.eu/product/SEALEVEL_GLO_PHY_L4_MY_008_047/description](https://data.marine.copernicus.eu/product/OCEANCOLOUR_ATL_BGC_L4_MY_009_118/services)
 
 - Sea Surface Temperature (SST)
 - Chlorophyll-a concentration
@@ -107,6 +118,15 @@ The modeling framework incorporates:
 The processed datasets required to reproduce the experiments reported in the manuscript are included in this repository.
 
 Original environmental observations were obtained from the Portuguese Institute for the Sea and Atmosphere (IPMA) and Copernicus Marine Service. Users should acknowledge and cite the Portuguese Institute for the Sea and Atmosphere (IPMA) and Copernicus Marine Service when reusing these datasets.
+
+toxin Data was orginally obtained from IPMA at https://www.ipma.pt/en/bivalves/biotox/
+ 
+Phytoplankton Data was originally obtained from IPMA at https://www.ipma.pt/en/bivalves/fito/
+
+Sea Surface Temperature data was originally obtained from Copernicus Marine at https://data.marine.copernicus.eu/product/SST_GLO_SST_L4_REP_OBSERVATIONS_010_024/description
+
+Chlorophyll-a Data was originally obtained from copernicus Marine at https://data.marine.copernicus.eu/product/SEALEVEL_GLO_PHY_L4_MY_008_047/description](https://data.marine.copernicus.eu/product/OCEANCOLOUR_ATL_BGC_L4_MY_009_118/services)
+
 
 ---
 

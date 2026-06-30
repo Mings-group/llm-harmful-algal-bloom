@@ -65,6 +65,8 @@ llm-harmful-algal-bloom/
 
 This study uses environmental, phytoplankton, and shellfish toxin datasets collected from multiple shellfish production areas.
 
+Original environmental observations were obtained from the Portuguese Institute for the Sea and Atmosphere (IPMA) and Copernicus Marine Service. Users should acknowledge and cite the Portuguese Institute for the Sea and Atmosphere (IPMA) and Copernicus Marine Service when reusing these datasets.
+
 The repository includes data associated with the following production areas:
 
 * RIAV1
@@ -116,8 +118,6 @@ The modeling framework incorporates:
 ## Data Availability
 
 The processed datasets required to reproduce the experiments reported in the manuscript are included in this repository.
-
-Original environmental observations were obtained from the Portuguese Institute for the Sea and Atmosphere (IPMA) and Copernicus Marine Service. Users should acknowledge and cite the Portuguese Institute for the Sea and Atmosphere (IPMA) and Copernicus Marine Service when reusing these datasets.
 
 toxin Data was orginally obtained from IPMA at https://www.ipma.pt/en/bivalves/biotox/
  

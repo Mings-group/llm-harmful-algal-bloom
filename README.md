@@ -4,7 +4,7 @@
 
 This repository contains the code, datasets, and supporting materials used in the study:
 
-**Using Large Language Models to Automate Harmful Algal Bloom Prediction**
+**Using a Large Language Model to Automate Harmful Algal Bloom Prediction**
 
 The objective of this work is to forecast concentrations of diarrhetic shellfish poisoning (DSP) toxins using machine learning and deep learning models developed with assistance from large language models (LLMs). The repository includes preprocessing workflows, model implementations, hyperparameter experiments, evaluation scripts, and supporting datasets.
 
